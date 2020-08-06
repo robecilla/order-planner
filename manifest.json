@@ -1,0 +1,7 @@
+{
+  "name": "Order Planner",
+  "short_name": "Order Planner",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
