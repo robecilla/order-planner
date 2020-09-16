@@ -4,7 +4,7 @@ const { Paragraph, Text, Link } = Typography;
 export const About = () => {
   return (
     <Typography style={{ textAlign: "center" }}>
-      <Paragraph>Dearest chorbo,</Paragraph>
+      <Paragraph>Dearest Bruno,</Paragraph>
       <Paragraph>
         Welcome to the{" "}
         <Text style={{ fontStyle: "italic" }}>Order Planner App</Text> version{" "}
