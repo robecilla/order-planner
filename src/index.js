@@ -7,6 +7,7 @@ import { CreateRecipe } from "./create-recipe";
 import Ingredients from "./ingredients";
 import Units from "./units";
 import "antd/dist/antd.css";
+import Login from "./auth/login";
 
 const { Header, Content, Footer } = Layout;
 
@@ -44,6 +45,7 @@ const App = () => (
             <CreateRecipe path="/recipe/create" />
             <Ingredients path="/ingredients" />
             <Units path="/units" />
+            <Login path="/login" />
           </Router>
         </Col>
       </Row>
